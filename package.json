@@ -1,7 +1,7 @@
 {
   "name": "@revgaming/laoder",
   "author": "estagent <estagent@gmail.com>",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "homepage": "https://github.com/estagent/loader",
   "description": "loader function",
   "main": "index.js",
